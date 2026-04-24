@@ -1,4 +1,4 @@
-# Modul 4 — Machine Learning: Clustering (Dry Bean Dataset)
+# Machine Learning: Clustering (Dry Bean Dataset)
 
 Repository ini berisi implementasi dari Modul 4 Machine Learning yang berfokus pada teknik **Clustering** (Unsupervised Learning). Studi kasus yang digunakan dalam proyek ini adalah segmentasi morfologi biji kacang kering menggunakan dataset **Dry Bean Dataset**.
 
